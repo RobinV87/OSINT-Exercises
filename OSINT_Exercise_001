@@ -1,9 +1,33 @@
-<p>In this exercise We have to find the coordinates of where a photo was taken.</p>
+In this exercise We have to find the coordinates of where a photo was taken.
 
-<h2>Clue number 1 - The picture</h2>
+Exercise level:
+For beginners: Hard
+For experts: Medium
+
+Clue number 1 - The picture
 <img src="https://gralhix.com/wp-content/uploads/2023/01/osintexercise001.png" alt="picture of Kiffa"></img>
-<p>In the picture we can see that it has a lot of dirt and a paved road, probably a main road deal. We can see that there are a couple of buildings, however the greenery is what is telling the most.
-\n There is a wall on the right side that has bricks and white stuff. To the left you see a couple of arches.
-Next to the road \n
-We can also see the powercables that are going with the road, so it's going somewhere important. \n</p>
+
+In the picture we can see that it has a lot of dirt and a paved road, probably a main road deal. We can see that there are a couple of buildings, however the greenery is what is telling the most.
+There is a wall on the right side that has bricks and white stuff. To the left you see a couple of arches.
+Next to the road we can also see the powercables that are going with the road, so it's going somewhere important.
+
+When we look back to the text we can see that the person talks about Kiffa, a quick google maps search gives us an African town which definitely suits the picture.
+The timestamp is 1:45PM, so with the shadows going to the right we could conclude that we are looking north. HOWEVER! This is actually overlooking to the south,
+in the text the person says "This morning", so we can conclude that we are looking to the south.
+
+While looking on Google Maps, we can see a main road to the south, there is no streetview available, so let's do some detective work from the top.
+The text says something about newcomers, so this must be a tourist, even though it's translated from Arabic, newcomers is an important term.
+To the south is Kiffa Airport, which would mean that this picture could have been taken close to the airport.
+Where do tourists normally stay? In an hotel. In the south we have L'hotel de kiffa Maurianie.
+
+Important in the hotels name is the language used, it's French, a lot of African countries were either colonized by the French or Belgian.
+Knowing a bit about Africa and it's history, a lot of countries had French as it's official language and speak Arabic as a second, especialy in northern Africa.
+This could be a tourist from one of the northern African countries, namely Marocco, Libie or Tunisia. The only reason why I think of it, is to confirm that this could be a tourist,
+staying at a hotel.
+
+The hotel has a lot of plants to the south as well, it looks like it could be a river, there aren't many other places than next to the hotel where this picture could have been taken.
+So going with this, this would be the coordinates of: 16.609540454612713, -11.397876961517916
+
+Until this part I have not used any write ups and have only used Google Maps.
+Checking two write ups who have individualy checked the video of a walkthrough given by the creator, they both agree, in combination of the video, that this is the exact place!
 
